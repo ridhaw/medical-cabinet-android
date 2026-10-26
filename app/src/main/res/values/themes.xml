@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tp5ex2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Tp5ex2" parent="Base.Theme.Tp5ex2" />
+
+    <style name="Theme.Green" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">#8BC34A</item>
+        <item name="android:statusBarColor">#1B5E20</item>
+        <item name="android:navigationBarColor">#1B5E20</item>
+        <item name="android:windowBackground">@drawable/gradient_green_background</item>
+    </style>
+
+    <!-- Thème vert pour les patients -->
+    <style name="Theme.Green.Patient" parent="Theme.Green">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+    </style>
+
+    <!-- Thème vert pour les médecins -->
+    <style name="Theme.Green.Doctor" parent="Theme.Green">
+        <item name="colorPrimary">#0097A7</item>
+        <item name="colorPrimaryDark">#00695C</item>
+    </style>
+
+    <!-- Thème vert pour les admins -->
+    <style name="Theme.Green.Admin" parent="Theme.Green">
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryDark">#F57C00</item>
+    </style>
+
+
+</resources>

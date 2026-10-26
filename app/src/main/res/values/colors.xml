@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nouvelles couleurs médicales -->
+    <color name="medical_blue">#2196F3</color>
+    <color name="medical_green">#4CAF50</color>
+    <color name="medical_red">#F44336</color>
+    <color name="medical_orange">#FF9800</color>
+
+    <!-- Couleurs d'interface -->
+    <color name="chip_background">#6200EE</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="gray">#666666</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <!-- Couleurs principales -->
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Textes -->
+
+    <color name="text_hint">#999999</color>
+
+    <!-- Backgrounds -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_white">#FFFFFF</color>
+
+    <!-- Cartes -->
+    <color name="card_confirmed_bg">#E8F5E9</color>
+    <color name="card_pending_bg">#FFF3E0</color>
+
+    <!-- Statuts -->
+
+    <!-- Nouvelles couleurs pour les chips -->
+    <color name="primary_color">#2196F3</color>
+    <color name="chip_background_color">#FFFFFF</color>
+
+    <!-- Couleurs pour les statuts -->
+    <color name="status_pending">#FF9800</color>
+    <color name="status_confirmed">#4CAF50</color>
+    <color name="status_cancelled">#F44336</color>
+    <color name="status_completed">#9C27B0</color>
+
+
+
+        <!-- Couleurs principales vertes -->
+        <color name="primary_green">#4CAF50</color>
+        <color name="primary_green_dark">#388E3C</color>
+        <color name="primary_green_light">#C8E6C9</color>
+
+        <!-- Couleurs d'accent -->
+        <color name="accent_green">#8BC34A</color>
+        <color name="accent_green_dark">#689F38</color>
+
+        <!-- Gradients -->
+        <color name="gradient_start">#1B5E20</color>
+        <color name="gradient_end">#4CAF50</color>
+
+        <!-- Texte -->
+        <color name="text_primary">#FFFFFF</color>
+        <color name="text_secondary">#E0F7E9</color>
+        <color name="text_dark">#333333</color>
+    </resources>
+
+

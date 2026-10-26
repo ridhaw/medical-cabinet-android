@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tabibi</string>
+    <!-- Titres -->
+    <string name="title_my_appointments">📋 Mes Rendez-vous</string>
+    <string name="title_filter_by_status">🔍 Filtrer par statut</string>
+    <string name="title_appointments_list">📅 Liste des rendez-vous</string>
+    <string name="title_no_appointments">Aucun rendez-vous</string>
+
+    <!-- Labels -->
+    <string name="label_confirmed">Confirmés</string>
+    <string name="label_pending">En attente</string>
+    <string name="total_zero_appointments">Total: 0 rendez-vous</string>
+
+    <!-- Filtres -->
+    <string name="filter_all">Tous</string>
+    <string name="filter_pending">⏳ En attente</string>
+    <string name="filter_confirmed">✅ Confirmés</string>
+    <string name="filter_cancelled">❌ Annulés</string>
+
+    <!-- Messages -->
+    <string name="message_no_appointments">Vous n\'avez pas encore de rendez-vous</string>
+    <string name="desc_new_appointment">Prendre un nouveau rendez-vous</string>
+
+    <!-- Dialogues -->
+    <string name="dialog_details_title">Détails du rendez-vous</string>
+    <string name="dialog_cancel_title">Confirmer l\'annulation</string>
+    <string name="dialog_cancel_message">Êtes-vous sûr de vouloir annuler ce rendez-vous ?\n\nCette action est irréversible.</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="button_confirm">Confirmer</string>
+    <string name="button_close">Fermer</string>
+</resources>
